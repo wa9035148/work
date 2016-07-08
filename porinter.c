@@ -10,7 +10,7 @@ int *getRandom(){
 	return r;
 }
 
-int mian(){
+int main(){
 
 	int *p;
 	int i;
