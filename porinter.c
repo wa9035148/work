@@ -1,4 +1,5 @@
-#include<stdio.h>
+#include <stdio.h>
+
 int *getRandom(){
 	static int r[10];
 	int i;
